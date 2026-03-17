@@ -17,5 +17,5 @@ I am an aspiring Quantitative Researcher currently pursuing an M.S. in Quantitat
 - **Econometrics:** Stata
 
 **📫 Let's Connect**
-- **LinkedIn:** [Kết nối với tôi trên LinkedIn]([https://www.linkedin.com/in/link-cua-ban](https://www.linkedin.com/in/huyle3011/))
+- **LinkedIn:** https://www.linkedin.com/in/huyle3011/
 - **Email:** lpduchuy3011@gmail.com
